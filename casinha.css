@@ -1,0 +1,132 @@
+section {
+	background-color: #0093E8;
+	width: 500px;
+	height: 450px;
+	position: relative;
+	top: 150px;
+	left: 150px;
+}
+
+.casa {
+	background-color: #000000;
+	width: 300px;
+	height: 260px;
+	position: absolute;
+	top: 180px;
+  	left: 100px;
+}
+
+.janela {
+	background-color: #FFFFFF;
+	width: 100px;
+	height: 90px;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+
+.detalhe-janela {
+	background-color: #035250;
+	width: 10px;
+	height: 92px;
+	position: absolute;
+	top: -1px;
+	left: -1px;
+}
+
+.detalhe-janela2 {
+	background-color: #035250;
+	width: 10px;
+	height: 92px;
+	position: absolute;
+	top: -1px;
+	left: 100px;
+}
+
+.detalhe-janela3 {
+	background-color: #035250;
+	width: 92px;
+	height: 10px;
+	position: absolute;
+	top: -1px;
+	left: 9px;
+}
+
+.detalhe-janela4 {
+	background-color: #035250;
+	width: 92px;
+	height: 10px;
+	position: absolute;
+	top: 81px;
+	left: 9px;
+}
+
+.porta {
+	background-color: #FFFFFF;
+	width: 70px;
+	height: 110px;
+	position: absolute;
+	top: 330px;
+	right: 120px;
+}
+
+.macaneta {
+	background-color: #000000;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	top: 50px;
+	right: 10px;
+	border-radius:20px;
+}
+
+.terra {
+	background-color: #522703;
+	width: 1700px;
+	height: 70px;
+	position: fixed;
+	top: 595px;
+	right: -6px;
+
+}
+
+.sol {
+	background-color: #FFD326;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	top: 200px;
+	right: 1000px;
+	border-radius: 20px;
+}
+
+.nuvem {
+	background-color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	top: 230px;
+	right: 1030px;
+	border-radius: 20px;
+}
+
+.nuvem2 {
+	background-color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	top: 230px;
+	right: 986px;
+	border-radius: 20px;
+}
+
+.nuvem3 {
+	background-color: #FFFFFF;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	top: 230px;
+	right: 940px;
+	border-radius: 20px;
+}
+
